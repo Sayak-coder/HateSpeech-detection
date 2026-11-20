@@ -16,6 +16,9 @@ Subtask (C) Target & Identity Identification: A multilabel, multiclass task that
 The task covers 4 languages across different cultural and geographical contexts:
 
 English: A high-resource global lingua franca with broad online coverage, enabling comparisons with many existing NLP benchmarks.
+
 Italian: A Romance mid‑resource language that extends earlier work and offers continuity within European research on LGBTQIA+ hate speech.
+
 Dutch: A mid‑resource Germanic language underrepresented in queer-focused NLP, providing Northern/Western European perspectives.
+
 Persian: A low‑resource Indo‑Iranian language that introduces culturally distinct patterns of discourse rarely covered in queer research. Note that the Persian data will be released for testing only.
