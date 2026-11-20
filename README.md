@@ -1,4 +1,4 @@
-#StereoQueerEval: Identification of Stereotypes and Hate Speech Targeting the LGBTQIA+ Community
+###StereoQueerEval: Identification of Stereotypes and Hate Speech Targeting the LGBTQIA+ Community
 ###Shared Task at SemEval 2027
 
 The exponential rise of social media has revolutionized online communication, but it has also intensified the circulation of harmful content, including hate speech, implicit discrimination and deeply rooted stereotypes targeting LGBTQIA+ individuals. Often expressed in linguistically subtle ways, these stereotypes reinforce structural inequalities and harm queer communities worldwide.
